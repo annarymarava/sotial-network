@@ -1,0 +1,22 @@
+.nav {
+    grid-area: n;
+    background-color: burlywood;
+    padding: 10px;
+  }
+
+.item  {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.active {
+  color: gold;
+}
+
+ul {
+  padding: 10px;
+}

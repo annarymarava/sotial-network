@@ -1,0 +1,29 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItem {
+    padding: 10px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+}
+
+.form {
+    width: 300px;
+    height: 30px;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+.containerForm {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+

@@ -1,0 +1,10 @@
+.description {
+    padding: 10px;;
+}
+.img {
+    height: 100px;
+    width: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYCYFC7vayGIuEZEKc0Usmwfpebi1HWYTaQ&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
